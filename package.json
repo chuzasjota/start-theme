@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "ajax-wp-query": "^1.0.1",
+    "bootstrap": "^5.3.3",
     "swiper": "^11.0.7"
   }
 }
